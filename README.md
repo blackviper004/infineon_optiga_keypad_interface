@@ -9,3 +9,9 @@ Adarsh Shivadas
 Akash J Rao
 
 Arushi Rai
+
+Due to a high number of files the project is uploaded in zip file format.
+
+IDE: VScode
+
+Compiler and Tools: Modus Toolbox v3.6 and ModusToolbox Assist extension VScode
